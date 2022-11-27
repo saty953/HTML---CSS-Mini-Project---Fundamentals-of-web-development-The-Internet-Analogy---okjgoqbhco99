@@ -1,1 +1,53 @@
+html,
+body{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
+.pimg1{
+    background-image: url(https://10wallpaper.com/wallpaper/1366x768/1109/Tahiti_Green_Mountains_wallpaper_1366x768.jpg);
+    min-height: 100%;
+}
+.pimg2{
+    background-image: url(https://10wallpaper.com/wallpaper/1366x768/1312/grass_rainbow_river-Scenery_HD_Wallpaper_1366x768.jpg);
+    min-height: 100%;
+}
+.pimg3{
+    background-image: url(https://10wallpaper.com/wallpaper/1366x768/1312/summer_nature_road_leaves-Scenery_HD_Wallpaper_1366x768.jpg);
+    min-height: 100%;
+}
+.pimg4{
+    background-image: url(https://10wallpaper.com/wallpaper/1366x768/1312/trees_top_view_summer-Scenery_HD_Wallpaper_1366x768.jpg);
+    min-height: 100%;
+}
+.img{
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity: 70%;
+}
+.ptext{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: rgb(250, 244, 244);
+    text-transform: uppercase;
+    
+}
+.ptext span{
+    background-color: rgb(14, 13, 13);
+    font-size: 40px;
+    letter-spacing: 5px;
+}
+.sec1{
+    padding: 20px 80px;
+    text-align: center;
+}
 
